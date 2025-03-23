@@ -3,5 +3,5 @@ spring:
   data:
     mongodb:
       host: localhost
-      port: 27017
+      port: 27017123
       database: stockdb		
